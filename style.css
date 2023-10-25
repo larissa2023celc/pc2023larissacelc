@@ -1,0 +1,33 @@
+
+h1 {
+    text-align:center;
+    background-color: rgb(197, 106, 197) ;
+}
+h2{
+    text-align: center;
+    background-color: rgb(197, 106, 197);
+    font-size: xx-lar
+
+p {
+    text-align: center;
+    font-size: large;
+}
+
+em {
+    font-size: x-large; 
+    color: aliceblue;
+
+}
+
+strong {
+    font-size: larger;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(245, 159, 220);
+}
+
+a {
+    font-size: xxlarger;
+}o
