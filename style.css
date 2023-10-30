@@ -28,10 +28,11 @@ body {
     background-color: rgb(245, 159, 220);
 }
 
-nav a {
+nav a{
     font-size: xxlarger;
     color:pink;
-}o
+}
 nav a:hover{
-color:green;
+color:green; 
+    text-decoration:
 }
