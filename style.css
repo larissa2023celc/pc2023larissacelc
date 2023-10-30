@@ -30,4 +30,8 @@ body {
 
 a {
     font-size: xxlarger;
+    color:pink;
 }o
+nav a:hover{
+color:green;
+}
